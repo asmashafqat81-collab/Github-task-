@@ -1,1 +1,2 @@
-Hello i am from feature.
+
+Hello , resolvoing  merge conflict now.
